@@ -1,4 +1,4 @@
-Sitemap: https://juliaparallel.github.io/sitemap.xml
+Sitemap: https://juliaparallel.org/sitemap.xml
 
 User-agent: *
 Disallow:
